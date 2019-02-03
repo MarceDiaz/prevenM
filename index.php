@@ -34,7 +34,7 @@
 			<!-- Banner -->
 				<section id="banner">
 					<header>
-						<h2>PrevenMax:&nbsp&nbsp <em>Asesoramiento integral, Presupuesto sin cargo </em></h2>
+						<h2>PrevenMax:&nbsp&nbsp <em>Asesoramiento integral. Presupuesto sin cargo </em></h2>
 						<a href="#" class="button">Leer Más</a>
 					</header>
 				</section>
