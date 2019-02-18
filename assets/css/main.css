@@ -2668,7 +2668,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/Decretos.jpg");
 		background-position: center center;
 		background-size: cover;
 		height: 18em;
@@ -2768,7 +2768,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 4em 0 8em 0;
+		padding: 0em 0 8em 0;
 	}
 
 		#footer a {

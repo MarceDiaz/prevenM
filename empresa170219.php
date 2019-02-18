@@ -18,7 +18,7 @@
 		<meta http-equiv="Content-Language" content="ES-ES" />
 		<meta name="Publisher-Email" content="consulta@prevenmax.uy" />
 		<meta name="Page-Type" content="Produktinfo" />
-		<link rel="shortcut icon" href="LogoNew.ico">
+		<link rel="shortcut icon" href="PrevenMax.ico">
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
@@ -98,8 +98,14 @@
 											consequat etiam lorem ipsum dolor sit amet nullam.</p>
 
 											<h3>And Yet Another Subheading</h3>
-											<p>https://www.unit.org.uy/
-.</p>
+											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
+											justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
+											ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
+											vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
+											Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
+											rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
+											Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
+											Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.</p>
 
 											<p>Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
 											quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
@@ -117,49 +123,60 @@
 
 			<!-- Footer -->
 				<div id="footer">
-					
-				<!-- Posts -->
-				<section class="wrapper style1">
-					<div class="container">
+					<!--div class="container">
 						<div class="row">
-							<section class="col-6 col-12-narrower">
-								<div class="box post">
-									<a class="image left"><img src="images/equip/MaVCollazo.jpg" alt="" /></a>
-									<div class="inner">
-										<!--h2>María Victoria Collazo</h2!-->
-										<h3>María Victoria Collazo</h3>
-										<h4>Tecnólogo Prevencionista</h4>
-										    Dirección: Ramón Márquez 3255/103<br>
-											Teléfono Fijo: 22083748<br>
-											Celular: 098072343<br>
-											mvcollazo@prevenmax.uy
-										<!--p></p-->
-									</div>
-								</div>
+							<section class="col-3 col-6-narrower col-12-mobilep">
+								<h3>Links to Stuff</h3>
+								<ul class="links">
+									<li><a href="#">Mattis et quis rutrum</a></li>
+									<li><a href="#">Suspendisse amet varius</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum accumsan dolor</a></li>
+									<li><a href="#">Mattis rutrum accumsan</a></li>
+									<li><a href="#">Suspendisse varius nibh</a></li>
+									<li><a href="#">Sed et dapibus mattis</a></li>
+								</ul>
+							</section>
+							<section class="col-3 col-6-narrower col-12-mobilep">
+								<h3>More Links to Stuff</h3>
+								<ul class="links">
+									<li><a href="#">Duis neque nisi dapibus</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum accumsan sed</a></li>
+									<li><a href="#">Mattis et sed accumsan</a></li>
+									<li><a href="#">Duis neque nisi sed</a></li>
+									<li><a href="#">Sed et dapibus quis</a></li>
+									<li><a href="#">Rutrum amet varius</a></li>
+								</ul>
 							</section>
 							<section class="col-6 col-12-narrower">
-								<div class="box post">
-									<a class="image left"><img src="images/equip/CdoReis.jpg" alt="" /></a>
-									<div class="inner">
-										<h3>Claudia do Reis</h3>
-										<h4>Ingeniero Tec. Prevencionista</h4>
-										    Dirección: Paso de la Arena 2015<br>
-											Teléfono Fijo: 23127747<br>
-											Celular: 096212837<br>
-											claudia@prevenmax.uy
-										<p></p>
+								<h3>Get In Touch</h3>
+								<form>
+									<div class="row gtr-50">
+										<div class="col-6 col-12-mobilep">
+											<input type="text" name="name" id="name" placeholder="Name" />
+										</div>
+										<div class="col-6 col-12-mobilep">
+											<input type="email" name="email" id="email" placeholder="Email" />
+										</div>
+										<div class="col-12">
+											<textarea name="message" id="message" placeholder="Message" rows="5"></textarea>
+										</div>
+										<div class="col-12">
+											<ul class="actions">
+												<li><input type="submit" class="button alt" value="Send Message" /></li>
+											</ul>
+										</div>
 									</div>
-								</div>
+								</form>
 							</section>
 						</div>
-					</div>
-				</section>
-
+					</div-->
 
 					<!-- Icons -->
 					<?php include("icons.html"); ?>
 
-				</div> <!-- footer -->
+				</div>
 
 		</div>
 
