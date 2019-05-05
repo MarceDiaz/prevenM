@@ -128,7 +128,7 @@
 									<div class="inner">
 										<!--h2>María Victoria Collazo</h2!-->
 										<h3>María Victoria Collazo</h3>
-										<h4>Tecnólogo Prevencionista</h4>
+										<h4>Ingeniero Tec. Prevencionista</h4>
 										    Dirección: Ramón Márquez 3255/103<br>
 											Teléfono Fijo: 22083748<br>
 											Celular: 098072343<br>
