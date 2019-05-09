@@ -76,12 +76,11 @@
 					</div>
 				</section>
 
-			<!-- Gigantic Heading -->
+			<!-- Heading -->
 				<section class="wrapper style2">
 					<div class="container">
 						<header class="major">
 							<h2>Contáctenos y obtenga el más completo asesoramiento en materia de Seguridad y Salud laboral</h2>
-							<!--p>La Seguridad NO se negocia !</p-->
 						</header>
 					</div>
 				</section>
@@ -131,13 +130,62 @@
 						</div>
 					</div>
 				</section>
+			<!-- Cierre Posts -->
 
+			<!-- Empresas que brindamos servicio -->
+				<!-- Second Heading -->
+				<section class="wrapper style2">
+					<div class="container">
+						<header class="major">
+							<h2>Empresas asesoradas en Salud y Seguridad Laboral por PrevenMax</h2>
+						</header>
+					</div>
+				</section>
+
+				<section class="wrapper style1">
+					<!--h2>&emsp; &emsp; Empresas asesoradas en Salud y Seguridad Laboral por PrevenMax</h2-->
+					<div class="container">
+					<h3>Pintura de Edificios</h3>
+					<h4>Se especializa en el uso de Técnicas de Acción y Posicionamiento con Cuerdas (TAPC).</h4>
+
+						<div class="row">
+							<section class="col-6 col-12-narrower">
+								<div class="box post">
+									<img src="images/clientes/Edificios.jpg" alt="Edificios"/>
+									<div class="inner">
+										<h3>Hidrolavados, pintura, albañilería.</h3>
+									</div>
+								</div>
+							</section>
+							</div>
+							<div class="row">
+							<section class="col-6 col-12-narrower">
+								<div class="box post">
+									<img src="images/clientes/Esquina.jpg" alt="Esquina"/>
+									<div class="inner">
+										<h3>Acondicionamiento de fachadas.</h3>
+									</div>
+								</div>
+							</section>
+							</div>
+							<div class="row">
+							<section class="col-6 col-12-narrower">
+								<div class="box post">
+									<img src="images/clientes/PintEdificio.jpg" alt="Pintura"/>
+									<div class="inner">
+										<h3>Pintura de edificios.</h3>
+									</div>
+								</div>
+							</section>
+						</div>
+					</div>
+				</section>
+			<!-- Cierre Empresas asesoradas -->
 			<!-- CTA -->
 				<section id="cta" class="wrapper style3">
 					<div class="container">
 						<header>
 							<h2>Listo para enviarnos su consulta ?</h2>
-							<!--a href="#" class="button">Insert Coin</a-->
 						</header>
 					</div>
 				</section>
